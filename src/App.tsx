@@ -548,7 +548,7 @@ function App() {
                       <h4 className="text-2xl sm:text-3xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors duration-300">
                         Website Development
                       </h4>
-                      <p className="text-blue-600 font-semibold text-lg">GHS 3,000 – 15,000</p>
+                      <p className="text-blue-600 font-semibold text-lg">GHS 5,000 – 30,000</p>
                     </div>
                   </div>
                   <p className="text-gray-600 text-lg leading-relaxed mb-6">

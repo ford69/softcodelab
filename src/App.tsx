@@ -456,7 +456,7 @@ function App() {
                 </button>
                 <div className="flex items-center space-x-2 text-gray-600 text-sm sm:text-base">
                   <Shield className="w-5 h-5 text-green-500 animate-pulse" />
-                  <span className="font-medium">40% upfront • Milestone-based payments</span>
+                  <span className="font-medium">Your secure software solution</span>
                 </div>
               </div>
             </div>
@@ -833,7 +833,7 @@ function App() {
           </div>
 
           {/* Payment Terms */}
-          <div className="mt-12 sm:mt-16 bg-white rounded-2xl shadow-xl p-6 sm:p-8 border border-gray-100">
+          {/* <div className="mt-12 sm:mt-16 bg-white rounded-2xl shadow-xl p-6 sm:p-8 border border-gray-100">
             <h4 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6 sm:mb-8 text-center">Payment Terms</h4>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
               <div className="text-center p-6 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl">
@@ -852,7 +852,7 @@ function App() {
             <p className="text-gray-600 text-center">
               For retainer services, payment is due monthly in advance. All contracts include detailed invoicing using professional tools.
             </p>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -1073,7 +1073,7 @@ function App() {
                   </div>
                   <div>
                     <h5 className="font-semibold text-gray-900 mb-1">WhatsApp</h5>
-                    <p className="text-gray-600">+233 XX XXX XXXX</p>
+                    <p className="text-gray-600">+233 544023254</p>
                     <p className="text-sm text-gray-500">Available 24/7 for urgent inquiries</p>
                   </div>
                 </div>
@@ -1084,7 +1084,7 @@ function App() {
                   </div>
                   <div>
                     <h5 className="font-semibold text-gray-900 mb-1">Email</h5>
-                    <p className="text-gray-600">info@softcodelabs.com</p>
+                    <p className="text-gray-600">cliffordmanu7@gmail.com</p>
                     <p className="text-sm text-gray-500">We respond within 24 hours</p>
                   </div>
                 </div>

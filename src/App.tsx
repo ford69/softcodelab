@@ -886,7 +886,7 @@ function App() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="/images/bg-image-1.jpg"
                   alt="Our Team at Work"
                   className="w-full h-64 sm:h-80 lg:h-96 object-cover"
                 />
@@ -1390,11 +1390,11 @@ function App() {
               <div className="space-y-3 text-gray-400">
                 <div className="flex items-center space-x-3">
                   <MessageCircle className="w-5 h-5" />
-                  <span>WhatsApp: +233 XX XXX XXXX</span>
+                  <span>WhatsApp: +233 544023250</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5" />
-                  <span>info@softcodelabs.com</span>
+                  <span>cliffordmanu7@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5" />
